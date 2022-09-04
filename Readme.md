@@ -16,7 +16,7 @@
 
 ## Time Taken
 
-It took me about 2 hours to complete this project
+It took me about 8 hours to complete this project
 
 ## Feedback
 
