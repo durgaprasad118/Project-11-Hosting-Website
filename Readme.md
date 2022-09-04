@@ -8,7 +8,7 @@
 
 ## Live Demo
 
-[Live link](https://project-10-interior-dp1108.netlify.app/)
+[Live link](https://project-11-hosting-dp1108.netlify.app/)
 
 ## Technologies Used
 
